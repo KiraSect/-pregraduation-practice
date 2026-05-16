@@ -1,5 +1,4 @@
 # AI API Projects
-## Проекты
 - **article_summarizer_bot** — Telegram-бот, который делает краткий пересказ статьи по ссылке (5 пунктов).
 - **ai_commit_helper** — генерация commit-сообщений по `git diff` (Conventional Commits).
 - **ai_notes_assistant** — поиск похожих markdown-заметок и генерация summary во frontmatter.
